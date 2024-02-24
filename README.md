@@ -1,1 +1,2 @@
-# myFirstProg
+This project was developed by me to sharpen my programming skills and practice. the site consists of a sidebar that does not change in principle and the main parts that change. from the functionality, a smooth change of the topic of switching between pages is available.
+<img width="1440" alt="Знімок екрана 2024-02-24 о 21 15 23" src="https://github.com/Sergey432654/myFirstProg/assets/115184910/dd6eb8bc-4b16-4a6b-b2e2-65f1a9a03ba9">
